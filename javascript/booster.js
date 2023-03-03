@@ -118,9 +118,6 @@ class Ennemie {
   }
 }
 
-// var player1 = new Player('test',10 )
-
-// ../img/Spaceship.svg
 function updateRender() {
   gameElements.forEach((gameElement) => {
     gameElement.render()
